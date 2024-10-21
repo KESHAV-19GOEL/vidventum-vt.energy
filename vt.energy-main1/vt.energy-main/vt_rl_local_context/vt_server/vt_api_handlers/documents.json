@@ -1,0 +1,4 @@
+[
+    {"id": 1, "businessName": "Example Business 1", "type": "Retail", "address": "123 Example St"},
+    {"id": 2, "businessName": "Example Business 2", "type": "Service", "address": "456 Sample Rd"}
+]

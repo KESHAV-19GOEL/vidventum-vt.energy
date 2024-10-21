@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "businessName": "Document 1",
+        "description": "This is document 1"
+    },
+    {
+        "id": 2,
+        "businessName": "Document 2",
+        "description": "This is document 2"
+    },
+    {
+        "id": 3,
+        "businessName": "Document 3",
+        "description": "This is document 3"
+    }
+]

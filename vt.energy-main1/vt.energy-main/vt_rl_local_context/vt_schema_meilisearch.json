@@ -1,0 +1,8 @@
+{
+    "primaryKey": "id",
+    "fields": [
+        {"name": "id", "type": "string"},
+        {"name": "businessName", "type": "string"},
+        {"name": "description", "type": "string"}
+    ]
+}
